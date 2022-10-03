@@ -1,2 +1,2 @@
-# prismJs-in-reactjs
-how use prismJs in reactjs
+# How use Prisma in reactjs
+code implement prisma in reactjs example.
